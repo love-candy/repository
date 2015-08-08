@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Activity Indicators</string>
+		<key>detailTitle</key>
+		<string>AAPLActivityIndicatorViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Alert Controller</string>
+		<key>detailTitle</key>
+		<string>AAPLAlertControllerViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Buttons</string>
+		<key>detailTitle</key>
+		<string>AAPLButtonViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Date Picker</string>
+		<key>detailTitle</key>
+		<string>AAPLDatePickerController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Image View</string>
+		<key>detailTitle</key>
+		<string>AAPLImageViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Page Control</string>
+		<key>detailTitle</key>
+		<string>AAPLPageControlViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Picker View</string>
+		<key>detailTitle</key>
+		<string>AAPLProgressViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Progress Views</string>
+		<key>detailTitle</key>
+		<string>AAPLProgressViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Segmented Controls</string>
+		<key>detailTitle</key>
+		<string>AAPLSegmentedControlViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Sliders</string>
+		<key>detailTitle</key>
+		<string>AAPLSliderViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Steppers</string>
+		<key>detailTitle</key>
+		<string>AAPLStepperViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Switches</string>
+		<key>detailTitle</key>
+		<string>AAPLSwitchViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Text Fields</string>
+		<key>detailTitle</key>
+		<string>AAPLTextFieldViewController</string>
+	</dict>
+	<dict>
+		<key> title</key>
+		<string>Text View</string>
+		<key>detailTitle</key>
+		<string>AAPLTextViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Web View</string>
+		<key>detailTitle</key>
+		<string>AAPLWebViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Search</string>
+		<key>detailTitle</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Toolbars</string>
+		<key>detailTitle</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
